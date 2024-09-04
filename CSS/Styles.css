@@ -1,0 +1,28 @@
+body {
+    font-family: arial;
+    background-color: rgb(185, 179, 175);
+   }
+   h1 {
+    color: white;
+   }
+   i {
+    color: green;
+   }
+   i {
+    color: red;
+   }
+   b {
+    color: pink;
+   }
+   b {
+    color: blue !important;
+   }
+   b {
+    color: violet;
+   }
+   #intro {
+    color: blueviolet;
+   }
+   p {
+    color: royalblue;
+   }
