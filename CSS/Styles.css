@@ -1,8 +1,8 @@
 body {
     font-family: arial;
-    background-color: #b9b3af;
+    background-color: #8f8b88;
     color: white;
-    margin: 10px;
+    margin: 5px;
 }
 h1 {
     font-size: 400%;
@@ -16,13 +16,16 @@ h3 {
 p {
     font-size: 100%;
 }
-#principal {
-    width: 30px;
+#principal img{
+    width: 1572px;
+    margin: 0%;
     
 }
 #div2 {
     margin-right: 25px;
 }
+
+
 
 
 header {
@@ -67,14 +70,9 @@ header {
     font-weight: 400;
 }
 
-.menu li {
-    display: inline;
-}
-
-menu li a {
-    display:inline-block;
-}
-
 .menu li a:hover {
-    background-color: #b9b3af;
+    background-color: #a19c99;
+    padding: 20px;
+    font-size: 25px;
+    border-radius: 5px;
 }
