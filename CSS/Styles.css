@@ -5,16 +5,29 @@ body {
     margin: 5px;
 }
 h1 {
-    font-size: 400%;
+    font-size: 300%;
 }
 h2 {
-    font-size: 200%;
+    font-size: 210%;
 }
 h3 {
-    font-size: 150%;
+    font-size: 160%;
 }
 p {
+    font-size: 120%;
+}
+#ul1 {
+    font-size: 120%;
+}
+#ul2 {
     font-size: 100%;
+}
+#ul3 {
+    font-size: 85% ;
+    list-style-type: disc;
+}
+#ol1 li {
+    font-size: 120% !important;
 }
 #principal img{
     width: 1550px;
@@ -24,7 +37,6 @@ p {
 #div2 {
     margin-right: 25px;
 }
-
 
 
 
@@ -68,6 +80,7 @@ header {
     font-size: 1.15rem;
     color: #fff;
     font-weight: 400;
+    font-size: 140%;
 }
 
 .menu li a:hover {
