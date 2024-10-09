@@ -38,7 +38,18 @@ p {
     margin-right: 25px;
 }
 
-
+#contato1 {
+    background: red;
+    border: 1px solid gray;
+    margin: 10px;
+    float: left;
+}    
+#contato2 {
+    background: blue;
+    border: 1px solid gray;
+    margin: 10px;
+    float: right;
+} 
 
 header {
     background-color: #88265a;
