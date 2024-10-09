@@ -40,13 +40,13 @@ p {
 
 #contato1 {
     background: red;
-    border: 1px solid gray;
+    border: 1px;
     margin: 10px;
     float: left;
 }    
 #contato2 {
     background: blue;
-    border: 1px solid gray;
+    border: 1px;
     margin: 10px;
     float: right;
 } 
