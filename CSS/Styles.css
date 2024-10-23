@@ -36,19 +36,6 @@ p {
 }
 #div2 {
     margin-right: 25px;
-}
-
-#contato1 {
-    background: red;
-    border: 1px;
-    margin: 10px;
-    float: left;
-}    
-#contato2 {
-    background: blue;
-    border: 1px;
-    margin: 1000px 500px 1000px 10px;
-    float: right;
 } 
 
 header {
