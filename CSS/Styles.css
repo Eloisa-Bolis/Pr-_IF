@@ -32,14 +32,69 @@ p {
 #ol1 li {
     font-size: 120% !important;
 }
-#principal img{
-    width: 1550px;
-    margin: 0%;
-    
+#ol1 a {
+    color: #e6a3c6;
+    text-decoration: underline;
+}
+#ol1 img {
+    border-radius: 150px;
+    width: 100px;
+}
+
+#divImpleFormu {
+    font-size: 120%;
 }
 #div2 {
     margin-right: 25px;
+    margin: 40px;
 } 
+#div2 a {
+    color: #e6a3c6;
+}
+#divcontato {
+    margin-right: 25px;
+    margin: 40px;
+}
+
+.card {
+    width: 600px;
+    height: 850px;
+    background-color: #63334c;
+    border-style: none;
+    border-radius: 8px;
+    margin: 20px;
+    float:left;
+}
+.card-content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 1px;
+}
+.card-content p {
+    margin: 10px 30px 1px 30px;
+}
+.card-content a{
+    margin: 10px 30px 1px 30px;
+    color: #e6a3c6;
+    text-decoration: underline;
+}
+.card img{
+    width: 600px;
+    height: auto;
+    border-style: none;
+    border-radius: 8px;
+}
+.clear {
+    clear:left;
+}
+
+
+#principal img{
+    width: 1300px;
+    margin: 0%;
+    
+}
 
 header {
     background-color: #63334c;
